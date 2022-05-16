@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeradorDeParcelas", "GeradorDeParcelas\GeradorDeParcelas.csproj", "{7D614C72-24B5-4FC9-83B0-DB0175130BEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D614C72-24B5-4FC9-83B0-DB0175130BEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D614C72-24B5-4FC9-83B0-DB0175130BEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D614C72-24B5-4FC9-83B0-DB0175130BEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D614C72-24B5-4FC9-83B0-DB0175130BEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65478238-ED6C-496F-9164-D8AA0A077CE9}
+	EndGlobalSection
+EndGlobal

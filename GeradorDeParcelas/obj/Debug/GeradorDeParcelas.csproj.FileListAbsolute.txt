@@ -1,0 +1,8 @@
+D:\PROJETOS BACKEND\GeradorDeParcelas\GeradorDeParcelas\bin\Debug\GeradorDeParcelas.exe.config
+D:\PROJETOS BACKEND\GeradorDeParcelas\GeradorDeParcelas\bin\Debug\GeradorDeParcelas.exe
+D:\PROJETOS BACKEND\GeradorDeParcelas\GeradorDeParcelas\bin\Debug\GeradorDeParcelas.pdb
+D:\PROJETOS BACKEND\GeradorDeParcelas\GeradorDeParcelas\obj\Debug\GeradorDeParcelas.csproj.AssemblyReference.cache
+D:\PROJETOS BACKEND\GeradorDeParcelas\GeradorDeParcelas\obj\Debug\GeradorDeParcelas.csproj.SuggestedBindingRedirects.cache
+D:\PROJETOS BACKEND\GeradorDeParcelas\GeradorDeParcelas\obj\Debug\GeradorDeParcelas.csproj.CoreCompileInputs.cache
+D:\PROJETOS BACKEND\GeradorDeParcelas\GeradorDeParcelas\obj\Debug\GeradorDeParcelas.exe
+D:\PROJETOS BACKEND\GeradorDeParcelas\GeradorDeParcelas\obj\Debug\GeradorDeParcelas.pdb
